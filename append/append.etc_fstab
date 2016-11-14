@@ -1,0 +1,6 @@
+
+/dev/sda2       /mnt/c  ntfs    defaults        0 0
+/dev/sda3       /mnt/d  ntfs    defaults        0 0
+/dev/sdb1       /mnt/e  ntfs    defaults        0 0
+/dev/sdb2       /mnt/f  ntfs    defaults        0 0
+

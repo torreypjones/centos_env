@@ -1,0 +1,8 @@
+set -o vi
+
+alias ll='ls -lar --color=never'
+alias docker='sudo docker'
+alias dps='sudo docker ps'
+alias screen='screen -D -RR -O'
+
+alias kcheck='kubectl get nodes; kubectl get pv; for i in service deployments rs rc hpa pvc po ; do echo ; echo -------${i}-------; kubectl get --all-namespaces ${i}; echo =================; done'
