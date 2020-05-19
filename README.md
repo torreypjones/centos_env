@@ -4,6 +4,7 @@
 'git clone https://github.com/torreypjones/centos_env.git'
 
 ## to make modifications
+ - for commit to master level
  - download first: 'git clone https://github.com/torreypjones/centos_env.git'
 
  - make modifications to whatever you're doing
