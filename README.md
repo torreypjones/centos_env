@@ -7,6 +7,7 @@ patch 2 was changed in dev/patch2 branch; to be "pulled" into the customer dev b
 'git clone https://github.com/torreypjones/centos_env.git'
 
 ## to make modifications
+ - for commit to master level
  - download first: 'git clone https://github.com/torreypjones/centos_env.git'
 
  - make modifications to whatever you're doing
