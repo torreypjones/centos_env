@@ -1,4 +1,6 @@
 this is a a change in teh current working branch
+
+updates from teh customer qa branch
 # centos_env
 patch 1 was changed in dev/patch branch; to be "pulled" into the customer dev branch;
 patch 2 was changed in dev/patch2 branch; to be "pulled" into the customer dev branch -> qa -> prod
